@@ -1,5 +1,5 @@
 
-# Customer Churn Prediction Model with Dashboard
+# Customer Churn Prediction 
 
 ## 📌 Project Overview
 This project uses machine learning to predict customer churn, analyze customer behavior, and visualize insights through an interactive Power BI dashboard.
